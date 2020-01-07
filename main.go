@@ -4,6 +4,7 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo"
+	"github.com/labstack/echo/middleware"
 
 	"github.com/hoangduc02011998/golang-echo/action"
 )
@@ -11,6 +12,11 @@ import (
 func main() {
 
 	e := echo.New()
+
+	//g := e.Group("/admin")
+	e.Use(middleware.LoggerWithConfig(middleware.LoggerConfig{
+		Format: "[${time_rfc3339}]  ${status}  ${method}${path} ${latency_human}" + "\n",
+	}))
 
 	e.GET("/", func(c echo.Context) error {
 		return c.String(http.StatusOK, "hello world")
