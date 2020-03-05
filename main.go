@@ -11,7 +11,7 @@ import (
 	"github.com/labstack/echo/middleware"
 
 	jwt "github.com/dgrijalva/jwt-go"
-	"github.com/hoangduc02011998/golang-echo/action"
+	"gitlab.com/demo-k8s1/demo-echo/action"
 )
 
 type Account struct {
