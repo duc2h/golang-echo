@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "total-mechanic-270206",
+    "private_key_id": "906f33f9ea10e29034795e8672e34081425d3c1f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhU5SnOAijB/ZC\nsz/KVQlVcfpJLbxSBV1rxBL9ggPn3ZeJ6aFAm0F6+70OWdWNjDpViLHR/X4jwdlm\nBBFNbmCg3ZFjIGvhc5D6BaXZoqGNGpBJZRx/O4jVu5GszXryKcYidj6JpRMxtamB\nOSloT5aOpPNzv3IfGZmby6AfLUpXSu7oUotq+CHg85G5Ihhd2ziRCMmKbZf7jISh\nZVNvrw/3RZSz4EXHgL4erxQOGbIeoRySopFYTDLkUOLyBMpwr0hJVTwIbaTJMtiy\n3hwN5aY52fEvR2v8JM3IBLFwHaZkM7PeQJeR+OXWFjcx7IxqAIYLAaCT/LfLC4yF\nY4hlWDu/AgMBAAECggEAObGpa+GUkI3u16hG6ps4bxjmgYtE32mBQKEtTZzXPCzI\naucXw0+dhgxkHYMSA5LGsvTztvVlsWkmrZDYD0/2TOo+mjeId+sb0XDVxPJ31AXb\nsPdDQy6uvC8xPyJD2zKoCVXmcF8EmaNOmghVWmCah76jmV0JLv5ijvol7yWtFcle\nVBnCSeY7yjYfpzf+tbJoA0Xf3X6iMwD5GvLS1os5vIhXUF0dnlVoHmO8a3KSylaN\nT4r80QCX2wSntvF7KsR9Az26xXs+tYQsWzNV3pLOTX7A66bYmOv1oylEomipAHZw\neXXkpXlJIhTkA+ffwadM/grjDK385IOhqFYT2e2vKQKBgQD9a3lNm4PbYyaN27BR\niGLLegdXvnpN4bIg1k6+2tbz7+iK9t11V+Udm7Eann/w+Av9WIJCSZHKfqywyY9s\nhWtl9eWUPaNy/ygyuYvAaOfRcN1Nc240bN3nA+7+pSYrHHZqY9u01Lbpr332EQat\nfQfDus5bh1aeWJiNEuyPgX/euQKBgQDjnuIJwVHBl2DmN7+4PR/LWkz7RMqlIVlD\nVnlTq4VdiIKfgFzU0qIJAHVBOCVXagIH6DiLeH2KEJzuPNo8jvMvKnh7EQjwTq1m\nMPrF+pTfhznTA1FgJMZ8HF0o4qOlCJLanZ8rOrEnAZ83mrea6EG9lhyg8wikpgtB\neYg/HrlyNwKBgE4GUxjT8usPQgWXSFgyF8jyT2RynxFvlfqKQUB9/ISqrvxqOZEx\neLd/Ai5h8p5soLRmFeT25c5k5iKgTGprQb/oz8Cuoa58ZRIJEsAxDH7tsxVvntTB\nWCkSivkYPAI2BzeGe1TX0WFtyOiEIXw07LkUwQhpSQAD4yQ8WV1tz8LxAoGBAJWy\nX1wlDLyx7uNZVLg5UtitSaWSx2c0eH0luONDEZHC/o0hoWvCHximeXbsEvrbV/yV\nR+LJ2l5bsKmp0ak0JlElsFjXijZot/dWTQa5VwFu8KOLMhB1/yeOi+Igs5kM+2/V\na+HFVs6dbXXnRcsV5m5l8+wSCeQm444q/GTusu2fAoGAeJWS0Jga3r/X8bC/wydR\nypxByJQ8VsSfCc9J8bYj1te59jVMvcsddbNmNiZyYXauSgzCnj75cJxqeM2OXhqG\na57g3fkXW+j+TxSzt/hL9dy4a6izv0E+YsbeIEpSxTopnl9NqWLapqCFMfiQCnu5\nSb01DPBIryc0Hwqwv1PA3VA=\n-----END PRIVATE KEY-----\n",
+    "client_email": "gitlab-k8s-demo@total-mechanic-270206.iam.gserviceaccount.com",
+    "client_id": "102858904847877745908",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gitlab-k8s-demo%40total-mechanic-270206.iam.gserviceaccount.com"
+  }
+  
