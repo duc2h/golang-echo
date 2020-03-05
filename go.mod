@@ -1,10 +1,9 @@
-module github.com/hoangduc02011998/golang-echo
+module gitlab.com/demo-k8s1/demo-echo
 
 go 1.13
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/hoangduc02011998/golang-echo v0.0.0-20200112153255-085be54c9217
 	github.com/labstack/echo v3.3.10+incompatible
-	github.com/labstack/gommon v0.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20191227163750-53104e6ec876 // indirect
 )
